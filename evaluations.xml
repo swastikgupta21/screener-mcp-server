@@ -1,0 +1,42 @@
+<evaluation>
+  <qa_pair>
+    <question>An Indian company listed on BSE under code 503806 was incorporated in 1970 and makes technical textiles, chemicals, packaging films and aluminium foils. In its consolidated balance sheet for the year ending Mar 2026, what were its total liabilities in Rs Crores?</question>
+    <answer>24097</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Looking at Tata Consultancy Services' consolidated quarterly results from Sep 2024 through Jun 2026, which single quarter shows the lowest net profit? Give the quarter label exactly as screener shows it.</question>
+    <answer>Dec 2025</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>In SRF Ltd's consolidated annual ratios covering Mar 2021 to Mar 2026, which financial year had the highest ROCE %? Give the year label exactly as screener shows it.</question>
+    <answer>Mar 2022</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>How many shareholders did SRF Ltd report in its quarterly shareholding pattern for Jun 2026?</question>
+    <answer>177423</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>What percentage of Tata Consultancy Services is held by promoters according to its quarterly shareholding pattern, a figure unchanged across every quarter from Sep 2024 to Jun 2026?</question>
+    <answer>71.77</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Deepak Nitrite Ltd and SRF Ltd both report consolidated quarterly results. For the quarter ending Mar 2026, which of the two reported the higher operating profit margin (OPM %)? Answer with the company's screener slug.</question>
+    <answer>SRF</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>In SRF Ltd's consolidated cash flow statement covering Mar 2021 to Mar 2026, exactly one financial year shows both a negative net cash flow and a negative free cash flow. Which year is it? Give the year label exactly as screener shows it.</question>
+    <answer>Mar 2024</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>SRF Ltd's peer comparison table includes a Gujarat-based chemicals and fertilisers company whose name screener abbreviates to four letters beginning with G. What is that company's screener slug?</question>
+    <answer>GNFC</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Screener uses two different numeric ids per company: one for its price chart and another for its peers and quick-ratio data. For Deepak Nitrite Ltd, what is the id used for peers and quick ratios (the warehouse id)?</question>
+    <answer>6595454</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>In SRF Ltd's consolidated profit and loss statement, the financial year ending Mar 2025 shows the lowest net profit of the Mar 2022 to Mar 2026 period. What was that net profit in Rs Crores?</question>
+    <answer>1251</answer>
+  </qa_pair>
+</evaluation>

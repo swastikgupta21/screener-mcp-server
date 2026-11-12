@@ -1,0 +1,33 @@
+{
+  "name": "screener-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Screener.in — Indian equity fundamentals, peers and price history",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "screener-mcp-server": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "clean": "rm -rf dist"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "cheerio": "^1.0.0",
+    "domhandler": "^5.0.3",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

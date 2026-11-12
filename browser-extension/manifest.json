@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Screener Session Bridge",
+  "version": "1.0.0",
+  "description": "Sends your screener.in session cookie to the local screener-mcp-server capture script. Reads nothing else.",
+  "permissions": ["cookies", "alarms"],
+  "host_permissions": ["https://www.screener.in/*", "http://127.0.0.1:8787/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Send screener.in session to screener-mcp-server"
+  }
+}
